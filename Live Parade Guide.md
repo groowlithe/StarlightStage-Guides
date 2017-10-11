@@ -100,3 +100,7 @@ Ricordate, infine, di completare le missioni:
 * Potrete guardate l'MV evento premendo il tasto **(リハーサル MV)**
 
 **Buon evento!**
+
+---
+
+Per ulteriori informazioni, visitate [il canale Telegram di Starlight Stage Italia!](https://t.me/starlightstageitalia)
