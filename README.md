@@ -1,4 +1,4 @@
-# StarlightStage-Guides
+# StarlightStage Guides
 
 * **[Caravan Guide](https://github.com/groowlithe/StarlightStage-Guides/blob/master/Caravan%20Guide.md)**
 * **[Live Parade Guide](https://github.com/groowlithe/StarlightStage-Guides/blob/master/Live%20Parade%20Guide.md)**
